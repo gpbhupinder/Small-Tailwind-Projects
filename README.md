@@ -1,4 +1,4 @@
 # Small Tailwind Projects
  
--> Email Subscribe Card
--> Pricing Card
+#-> Email Subscribe Card
+#-> Pricing Card
